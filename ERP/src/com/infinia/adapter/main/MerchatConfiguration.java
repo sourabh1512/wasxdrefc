@@ -4,6 +4,8 @@ public class MerchatConfiguration {
 	private String merchantId;
 	private String typeInterface;
 	
+
+	
 	public String getMerchantId() {
 		return merchantId;
 	}
